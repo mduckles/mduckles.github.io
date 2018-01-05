@@ -3,7 +3,7 @@
 I like:
 
 * [Generals.io](http://generals.io)
-* [Rocket League](htp://Rocketleague)
+* [Rocket League](http://Rocketleague.com)
 * iPhone development
 * 3D printing
 
