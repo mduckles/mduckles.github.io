@@ -1,8 +1,8 @@
 ---
 layout:presentation
-title:hello
+title:
 ---
-#slide 1
-hello my name is micah
+# slide 1
+ 
 ---
-#slide 2
+# slide 2
